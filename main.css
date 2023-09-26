@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 16px;
+}
+
+body {
+    float: left;
+}
+
+a {
+    text-align: right;
+    display: inline;
+}
